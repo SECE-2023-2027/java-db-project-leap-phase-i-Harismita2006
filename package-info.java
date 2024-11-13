@@ -1,1 +1,1 @@
-package com.org.bank.dao;
+package com.org.supplier.dao;
